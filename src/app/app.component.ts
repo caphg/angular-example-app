@@ -7,18 +7,16 @@ import {Component} from '@angular/core';
   providers: []
 })
 export class AppComponent {
-
-  public newTodo = {};
-  public todos = [];
-
   constructor() {
   }
 
-  addTodo() {
-  }
+  // variables go here...
+  // public test = 'test';
 
-  toggleTodoComplete(todo) {
-  }
+  // functions go here...
+  // public test() {
+  //   ...do something
+  // }
 
 
 }
